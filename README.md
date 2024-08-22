@@ -5,6 +5,20 @@
     <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
 
+## Tecnologias Utilizadas
+
+* MySQL Workbench
+
+## Contribuição
+
+Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie uma branch com a sua feature: `git checkout -b minha-feature`
+3. Commit suas mudanças: `git commit -m 'Minha nova feature'`
+4. Faça um push para a branch: `git push origin minha-feature`
+5. Abra um Pull Request
+
 ## Realizado por
 
 * Alex Laudiano
