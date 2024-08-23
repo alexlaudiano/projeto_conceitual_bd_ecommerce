@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Conceitual de Banco de Dados - E-COMMERCE</h1>
+<h1 align="center">Projeto Esquema Conceitual de Banco de Dados - E-COMMERCE</h1>
 
 <p align="center">
     <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=green&style=for-the-badge"/>
