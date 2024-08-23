@@ -45,6 +45,15 @@ Este documento apresenta a modelagem conceitual de um sistema de e-commerce que 
 * **Formas de Pagamento**: O sistema permite que um cliente cadastre mais de uma forma de pagamento, proporcionando flexibilidade na hora de realizar uma compra.
 * **Entrega**: A entrega dos pedidos inclui o acompanhamento do status e a disponibilização de um código de rastreamento, permitindo ao cliente monitorar o progresso de sua entrega.
 
+## Imagens do Modelo 
+
+![cenario_ecommerce](https://github.com/user-attachments/assets/acd72be7-5059-4a34-89b1-52d029175fe0)
+---
+### Refinamento do Esquema
+
+![cenario_ecommerce_refinado](https://github.com/user-attachments/assets/58caadce-0974-446d-a062-7813bf6e190c)
+
+
 ## Tecnologias Utilizadas
 
 * MySQL Workbench
